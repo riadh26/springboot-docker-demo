@@ -1,4 +1,4 @@
-# Web-app
+# Spring-Boot Docker Demo
 A simple Spring Boot web application that uses Docker and Docker Compose, it takes input from a user 
 and saves it into a Mysql database.
 
